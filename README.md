@@ -1,2 +1,2 @@
 # learning-node
-Learning node js with exercises from exercism.io
+Learning node js with exercises from nodeschool.io
